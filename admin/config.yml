@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: mshafat/digishikhon # আপনার গিটহাব ইউজারনেম/রিপো-নাম
   branch: main
 
 media_folder: "images"
